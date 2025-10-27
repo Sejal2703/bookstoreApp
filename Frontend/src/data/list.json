@@ -1,0 +1,102 @@
+[
+    {
+      "id":1,
+      "name":"Story Book",
+      "title":"lorem",
+      "price":0,
+      "category": "Free",
+      "image":"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+
+    {
+      "id":2,
+      "name":"Horror Book",
+      "title":"lorem",
+      "price":200,
+      "category":"Free",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    },
+
+    {
+      "id":3,
+      "name":"Adventure Book",
+      "title":"lorem",
+      "price":100,
+      "category":"Free",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    },
+
+    {
+      "id":4,
+      "name":"Recipes Book",
+      "title":"lorem",
+      "price":300,
+      "category":"Food",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+
+    {
+      "id":5,
+      "name":"Mystery Book",
+      "title":"lorem",
+      "price":400,
+      "category":"Mysteries",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    },
+
+    {
+      "id":6,
+      "name":"Sports Book",
+      "title":"lorem",
+      "price":0,
+      "category":"Games",
+     "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    },
+
+    {
+      "id":7,
+      "name":"History Book",
+      "title":"lorem",
+      "price":500,
+      "category":"History",
+     "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    },
+
+    
+    {
+      "id":8,
+      "name":"World Map Book",
+      "title":"lorem",
+      "price":500,
+      "category":"History",
+     "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    },
+
+    
+    {
+      "id":9,
+      "name":"Billionires  Book",
+      "title":"lorem",
+      "price":500,
+      "category":"History",
+     "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    },
+
+    
+    {
+      "id":10,
+      "name":"Language Book",
+      "title":"lorem",
+      "price":500,
+      "category":"History",
+     "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+
+    }
+]
