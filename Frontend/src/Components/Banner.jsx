@@ -18,7 +18,7 @@ function Banner() {
             className="input input-bordered w-full max-w-sm dark:bg-slate-800 dark:border-gray-600"
             placeholder="Enter your email"
           />
-          <button className="btn mt-6 btn-secondary">Subscribe</button>
+          <button className="btn mt-6 btn-secondary">Get Started</button>
         </div>
       </div>
 
